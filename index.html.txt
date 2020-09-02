@@ -6,9 +6,6 @@
 </head>
 <body>
     <h1>hello git</h1>
-    <h1>hello git2</h1>
-    <h3>hello gihthub</h3>
-     <h3>hello World</h3>
 
 </body>
 </html>
